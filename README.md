@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Duckaet
+- 👋 Hi, I’m Paras Sharma
 - 👀 I’m interested in Developing on Internet.
 - 🌱 I’m currently learning Godot Game engine.
 - 💞️ I’m looking to collaborate on FPP controls.
