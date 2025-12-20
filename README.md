@@ -1,6 +1,9 @@
-I'm writing rust lately, ping me up! if you need a hand
+### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=Duckaet">  
 
-<!---
-Duckaet/Duckaet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 Backend Engineer sailing with Serverless Stack  
+- 🔭 Worked on 🟠 Rust 🟢 Node.js 🔵 FastAPI
+- 📫 How to reach me: [mail](mailto:parascodes247@gmail.com)  
+- 🌍 Home: [parasbuids.tech](https://parasbuilds.tech)  
+- 🐥 Bird app: [X](https://x.com/parasunc)  
+- 😄 Pronouns: He / Him / His  
