@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Duckaet">  
 
-- 🚀 Backend Engineer sailing with Serverless Stack  
+- 🚀 Full stack Engineer building on solana  
 - 🔭 Worked on 🟠 Rust 🟢 Node.js 🔵 FastAPI
 - 📫 How to reach me: [mail](mailto:parascodes247@gmail.com)  
 - 🌍 Home: [parasbuids.tech](https://parasbuilds.tech)  
