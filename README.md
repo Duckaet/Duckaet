@@ -6,4 +6,3 @@
 - 📫 How to reach me: [mail](mailto:parascodes247@gmail.com)  
 - 🌍 Home: [parasbuids.tech](https://parasbuilds.tech)  
 - 🐥 Bird app: [X](https://x.com/parasunc)  
-- 😄 Pronouns: He / Him / His  
