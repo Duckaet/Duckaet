@@ -1,8 +1,7 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Duckaet">  
 
-- 🚀 Full stack Engineer building on solana  
+- 🚀 Full stack Engineer
 - 🔭 Worked on 🟠 Rust 🟢 Node.js 
 - 📫 How to reach me: [mail](mailto:parascodes247@gmail.com)  
-- 🌍 Home: [parasbuids.tech](https://parasbuilds.tech)  
-- 🐥 Bird app: [X](https://x.com/parasunc)  
+- Bird app: [X](https://x.com/parasunc)  
